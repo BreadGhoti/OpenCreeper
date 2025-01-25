@@ -2,7 +2,7 @@
 
 ## How to play
 
-Open Creeper can be played right here: http://alexanderzeillinger.github.com/OpenCreeper/
+Open Creeper can be played right here: https://breadghoti.github.com/OpenCreeper/
 
 ## About
 
